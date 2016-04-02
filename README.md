@@ -8,6 +8,9 @@ The purpose of building our model is to make it accessible to the borrowers, who
 
 
 Project_Outline.docx has the problem statement and outline of Project.
+
 cs-training.csv contains the dataset in csv format.
-Final_Project.R file contains the code in R
-Project_Presentation.pdf has the Project Presentation
+
+Final_Project.R file contains the code in R.
+
+Project_Presentation.pdf has the Project Presentation.
